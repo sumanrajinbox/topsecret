@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "topsecret"
+    }
+  },
+  "defaultProject": "topsecret",
+  "cli": {
+    "analytics": "209ab0ff-6b8c-4842-8205-d09ae33d54f3"
+  }
 }
